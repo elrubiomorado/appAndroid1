@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">GeoQuiz</string>
+    <string name="questionBicho">The Bicho is better than messi?</string>
+    <string name="questionSun">Planets revolve around the sun?</string>
+    <string name="question_Elephant">Can elephants jump?</string>
+    <string name="questionTrain">Do trains fly?</string>
+    <string name="questionTokio">Is the city of Tokyo the most populous in the world?</string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="correct_text">Correct!</string>
+    <string name="incorrect_text">Incorrect!</string>
+    <string name="next_button">Next</string>
+    <string name="prev_button">Prev</string>
+    <string name="warning_text">¿Are you sure of this?</string>
+    <string name="show_answer_button">see answer</string>
+    <string name="cheat_button">Cheat!</string>
+    <string name="judgment_text">Cheating is wrong.</string>
+    <string name="back_text">Back</string>
+</resources>
